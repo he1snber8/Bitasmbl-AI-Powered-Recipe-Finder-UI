@@ -1,0 +1,1 @@
+/* Basic styling and fade-in animation */\n.recipe-enter { opacity: 0; }\n.recipe-enter-active { opacity: 1; transition: opacity 300ms ease-in; }\n.App { font-family: Arial, sans-serif; }
