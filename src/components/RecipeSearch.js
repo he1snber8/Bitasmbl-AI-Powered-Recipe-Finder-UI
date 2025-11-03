@@ -1,0 +1,1 @@
+import React from 'react';\n// Component to capture input and trigger search\nexport default function RecipeSearch({ onSearch }) {\n  return <div>{/* Input and button to call onSearch */}</div>;\n}
