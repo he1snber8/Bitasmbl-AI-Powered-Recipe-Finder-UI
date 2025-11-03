@@ -1,0 +1,1 @@
+import React from 'react';\n// Component to display list of recipes\nexport default function RecipeList({ recipes }) {\n  return <div>{/* Map recipes and render each */}</div>;\n}
