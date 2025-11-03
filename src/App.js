@@ -1,0 +1,1 @@
+import React, { useState } from 'react';\n// Setup root component with state\nfunction App() {\n  const [ingredients, setIngredients] = useState([]);\n  const [recipes, setRecipes] = useState([]);\n  return <div className="App">{/* TODO: add components */}</div>;\n}\nexport default App;
